@@ -26,6 +26,10 @@ The structure of the files should be as follows to execute the notebook:
    └──census_income_test.csv
 
 ```
- 
 
-![Capital Gains vs Age, by Income] (https://github.com/rjcnrd/us_census/blob/master/Plot_capital_cains__age_income.jpg)
+![plot1](https://github.com/rjcnrd/us_census/blob/master/Plot_capital_cains__age_income.jpg)
+![plot2](https://github.com/rjcnrd/us_census/blob/master/Plot_Education_Income_Age.jpg)
+![plot3](https://github.com/rjcnrd/us_census/blob/master/Plot_detailed_occ_recode_age_income.jpg)
+![plot4](https://github.com/rjcnrd/us_census/blob/master/Plot_industry_recode_age_income.jpg)
+![plot5](https://github.com/rjcnrd/us_census/blob/master/Plot_major_occupation_wage_income.jpg)
+
