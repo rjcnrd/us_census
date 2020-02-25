@@ -1,4 +1,4 @@
-# Analysis and Modeling of US Census
+# Analysis and Modeling of Adult Income using the US Census Dataset
 This notebook contains my approach to building an estimator to predict whether or not an individual in the US Census dataset is earning more then 50.000 $ per year. After doing an exploratory data analysis to understand the different variables in the dataset, I finetuned and compared a penalized Logistic Regression Classifier and a Random Forest Classifier, comparing also different preprocessing-pipelines for the data.
 
 The model I favor is a Logistic Regression Classifier that uses only 8 input variables, and performs with accuracy 94.24% when applied to the test data set.
